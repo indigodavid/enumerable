@@ -35,7 +35,13 @@ module Enumerable
 
     def filter
       # filter method
-      
+      filtered_array = []
+      index = 0
+      while index < @list.length
+        filtered_array << @list[index] if yield @list[index]
+        index += 1 
+      end
+      filtered_array
     end
   end
 
