@@ -7,7 +7,7 @@
 
 ## Built With
 
-- Major languages
+- Ruby
 - Frameworks
 - Technologies used
 

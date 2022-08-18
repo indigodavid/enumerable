@@ -2,7 +2,7 @@ require_relative 'lib/enumerable/version'
 
 Gem::Specification.new do |spec|
   spec.name = 'enumerable'
-  spec.version = RubyTemplate::VERSION
+  spec.version = Enumerable::VERSION
   spec.authors = ['David Vera Castillo']
   spec.email = ['indigodavid@gmail.com']
 
