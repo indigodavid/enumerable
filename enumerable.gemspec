@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors = ['David Vera Castillo']
   spec.email = ['indigodavid@gmail.com']
 
-  spec.summary = 'Ruby Template'
-  spec.description = 'Description of new Ruby repository'
+  spec.summary = 'Enumerable Ruby Class'
+  spec.description = 'This repository contains coded implementations for enumerable methods using Ruby'
   spec.homepage = 'https://github.com/indigodavid/enumerable.git'
   spec.required_ruby_version = '>= 2.6.0'
 
